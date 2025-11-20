@@ -4,7 +4,7 @@
   <version>0.0.1</version>
   <description>Tag detection listener for autonomous drone</description>
 
-  <maintainer email="you@example.com">Your Name</maintainer>
+  <maintainer email="pranavmoolapattu@gamil.com">Pranav Moolapattu</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>
