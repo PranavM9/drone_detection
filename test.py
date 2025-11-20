@@ -1,4 +1,4 @@
-# test_tag_listener_mac.py
+# test.py -> input manual values for testing callback
 
 # --- Mock ROS2 ---
 class MockNode:
